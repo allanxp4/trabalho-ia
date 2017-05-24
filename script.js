@@ -5,6 +5,9 @@ Allan Araujo RM73730
 Gustavo H. Zava 74478
 Guilherme Carmona 75030
 Victor Barros Bologna 74171
+Romulo Soares de Sousa 75447
+Gabriel Freitas 74081
+Rodrigo Martinez Rodrigues 74835
 
 */
 
