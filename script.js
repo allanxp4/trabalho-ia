@@ -99,7 +99,7 @@ function main(){
 	$('#input-palavra').keyup(debounce(function(){
 		probabilidades = [];
 		console.log("oe");
-		findMatches($('#input-palavra').val().toLowerCase);
+		findMatches($('#input-palavra').val());
 		console.log("here we are");		
 		sortProbabilites();
 		console.log(probabilidades);
